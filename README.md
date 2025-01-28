@@ -1,4 +1,4 @@
-# Using REST services with the node.js backend framework
+# Using node.js as a backend service for IOS App
 
 ## Features:
 
